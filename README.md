@@ -31,14 +31,13 @@
 
 https://docs.google.com/spreadsheets/d/1FzGrir6nq1U9pgIYlrOq72778-150uIsmgxTYRugJMw/edit#gid=2122164854
 
-##　設計書
+## 設計書
 
 <a href="https://drive.google.com/file/d/11rFgPlQg63wKSa8zyirdjpORimtemEmN/view?usp=sharing">ER図</a>
 
-
 ## 開発環境
 
-- OS：Linux(CentOS)
+- OS：Linux(CentOS)y
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
 - フレームワーク：Ruby on Rails
 - JS ライブラリ：jQuery
