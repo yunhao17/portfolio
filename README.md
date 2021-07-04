@@ -31,12 +31,6 @@
 
 https://docs.google.com/spreadsheets/d/1FzGrir6nq1U9pgIYlrOq72778-150uIsmgxTYRugJMw/edit#gid=2122164854
 
-## 設計書
-
-<a href="https://drive.google.com/file/d/10QH9wl6TNLbucgDO5rk22LiULuxUDmGE/view?usp=sharing">ER 図</a>
-
-<a href="https://drive.google.com/file/d/1LGyqiUdy_LzTOEHVpiBb6qPqX23aAgwm/view?usp=sharing">テーブル定義書</a>
-
 ## 開発環境
 
 - OS：Linux(CentOS)y
