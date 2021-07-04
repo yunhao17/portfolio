@@ -33,7 +33,9 @@ https://docs.google.com/spreadsheets/d/1FzGrir6nq1U9pgIYlrOq72778-150uIsmgxTYRug
 
 ## 設計書
 
-<a href="https://drive.google.com/file/d/11rFgPlQg63wKSa8zyirdjpORimtemEmN/view?usp=sharing">ER図</a>
+<a href="https://drive.google.com/file/d/10QH9wl6TNLbucgDO5rk22LiULuxUDmGE/view?usp=sharing">ER 図</a>
+
+<a href"https://drive.google.com/file/d/1LGyqiUdy_LzTOEHVpiBb6qPqX23aAgwm/view?usp=sharing">テーブル定義書</a>
 
 ## 開発環境
 
